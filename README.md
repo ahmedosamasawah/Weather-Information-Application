@@ -23,9 +23,6 @@ A comprehensive Java desktop application that provides current weather informati
   - [Troubleshooting](#troubleshooting)
     - [Common Issues](#common-issues)
   - [Screenshots](#screenshots)
-  - [Future Enhancements](#future-enhancements)
-  - [License](#license)
-  - [Dependencies](#dependencies)
 
 ## Features
 
@@ -206,21 +203,10 @@ try {
 
 ## Screenshots
 
-_Add screenshots of your application here_
-
-## Future Enhancements
-
-1. **Location Auto-complete**: Implement an API to suggest locations as the user types
-2. **Weather Maps**: Add a weather map view using a mapping library
-3. **Notifications**: Set up alerts for severe weather conditions
-4. **Multiple Locations**: Allow users to save and quickly switch between different locations
-5. **Widgets**: Create a mini-version of the app that can stay on the desktop
-6. **Internationalization**: Add support for multiple languages
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Dependencies
-
-- json-simple-1.1.1.jar: For parsing JSON responses from weather APIs
+![Screen 1](./screenshots/1.png)
+![Screen 2](./screenshots/2.png)
+![Screen 3](./screenshots/3.png)
+![Screen 4](./screenshots/4.png)
+![Screen 5](./screenshots/5.png)
+![Screen 6](./screenshots/6.png)
+![Screen 7](./screenshots/7.png)
